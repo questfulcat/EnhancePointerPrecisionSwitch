@@ -4,12 +4,14 @@ Simple lightweight utility to enable/disable/toggle Mouse Enhance Pointer Precis
 
 Requires .NET Framework 4.0 or higher
 
-Use compile.bat to build source with your local CS compiler
+## Build
+Download EnhancePointerPrecisionSwitch.cs and compile.bat<br>
+Run compile.bat to build source with your local CS compiler
 
 ## Command line arguments:
-**on** - enables Enhance Pointer Precision setting
-**off** - disables setting
-**toggle** - inverse setting
+**on** - enables Enhance Pointer Precision setting<br>
+**off** - disables setting<br>
+**toggle** - inverse setting<br>
 **permanent** - keeps setting after reboot (should be used along with one of other settings)
 
 ## Example:
