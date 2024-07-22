@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace MouseEnhancePrecisionToggle
+namespace EnhancePointerPrecisionSwitch
 {
     internal static class Program
     {
